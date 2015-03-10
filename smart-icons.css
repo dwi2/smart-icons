@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "gaia-device-icons";
-  src: url("/tv_shared/font/gaia-device-icons.ttf") format("truetype");
+  src: url("/bower_components/smart-icons/smart-icons.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
